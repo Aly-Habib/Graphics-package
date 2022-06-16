@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package", "Package.csproj", "{EF66A00D-E64F-436F-931E-EB7A75D5C68F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bresenhamFix", "C:\Users\workstation\source\repos\bresenhamFix\bresenhamFix.csproj", "{191976A3-F986-4EE0-AB06-C7760163D6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF66A00D-E64F-436F-931E-EB7A75D5C68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF66A00D-E64F-436F-931E-EB7A75D5C68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF66A00D-E64F-436F-931E-EB7A75D5C68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF66A00D-E64F-436F-931E-EB7A75D5C68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191976A3-F986-4EE0-AB06-C7760163D6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191976A3-F986-4EE0-AB06-C7760163D6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191976A3-F986-4EE0-AB06-C7760163D6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191976A3-F986-4EE0-AB06-C7760163D6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {562AAE45-F582-40BF-B531-9331126D9C12}
+	EndGlobalSection
+EndGlobal
